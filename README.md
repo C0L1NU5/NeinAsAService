@@ -94,6 +94,13 @@ NeinAsAService
 
 ---
 
-## ⚓ Hinweis
+---
 
-Dieses Projekt entstand **während eines Schülerpraktikums!!!**
+## 🧰 Verwendete Technologien
+
+- **.NET 9.0** – Framework  
+- **ASP.NET Core Web API** – für den REST-Endpunkt  
+- **Entity Framework Core 9.0.9** – ORM für Datenbankzugriff  
+- **SQLite** – als Datenbank  
+- **Microsoft.AspNetCore.OpenApi** – für API-Dokumentation  
+- **EF Core Tools** – für Migrationen und Datenbankschemata  
